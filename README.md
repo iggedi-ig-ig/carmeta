@@ -1,6 +1,6 @@
 # Car Meta Hub
 This repository contains a large collection of JSON-files.
-All documented in this repository were generated using the same technique, 
+All documents in this repository were generated using the same technique, 
 which is _pretty good_ but not perfect, so expect some mistakes.
 Also some countries / regions work better than others.
 
