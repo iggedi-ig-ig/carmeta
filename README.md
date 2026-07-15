@@ -2,7 +2,7 @@
 In light of [recent events](https://www.youtube.com/watch?v=6JtK4KX6itA) I felt like it is necessary to add this disclaimer:
 
 **It is cheating to look at these documents during ranked gameplay**. 
-These documents are only meant to be used while stuying, not ingame. 
+These documents are only meant to be used while studying, not ingame. 
 I don't condone any form of cheating.
 
 # Car Meta Hub
